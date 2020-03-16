@@ -1,3 +1,3 @@
-# Welcome
+# CRI-O Release Notes
 
-- [1.18](release-1.18.md)
+- [v1.18.0-dev]()
