@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 section {
-  float: none;
+  float: none !important;
 }
